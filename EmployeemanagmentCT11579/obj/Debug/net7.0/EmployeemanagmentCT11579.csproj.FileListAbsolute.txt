@@ -1,0 +1,15 @@
+C:\Study Material\Core C#\Jan24 training Nachiket\Assignment\EmployeemanagmentCT11579\bin\Debug\net7.0\EmployeemanagmentCT11579.exe
+C:\Study Material\Core C#\Jan24 training Nachiket\Assignment\EmployeemanagmentCT11579\bin\Debug\net7.0\EmployeemanagmentCT11579.deps.json
+C:\Study Material\Core C#\Jan24 training Nachiket\Assignment\EmployeemanagmentCT11579\bin\Debug\net7.0\EmployeemanagmentCT11579.runtimeconfig.json
+C:\Study Material\Core C#\Jan24 training Nachiket\Assignment\EmployeemanagmentCT11579\bin\Debug\net7.0\EmployeemanagmentCT11579.dll
+C:\Study Material\Core C#\Jan24 training Nachiket\Assignment\EmployeemanagmentCT11579\bin\Debug\net7.0\EmployeemanagmentCT11579.pdb
+C:\Study Material\Core C#\Jan24 training Nachiket\Assignment\EmployeemanagmentCT11579\obj\Debug\net7.0\EmployeemanagmentCT11579.csproj.AssemblyReference.cache
+C:\Study Material\Core C#\Jan24 training Nachiket\Assignment\EmployeemanagmentCT11579\obj\Debug\net7.0\EmployeemanagmentCT11579.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study Material\Core C#\Jan24 training Nachiket\Assignment\EmployeemanagmentCT11579\obj\Debug\net7.0\EmployeemanagmentCT11579.AssemblyInfoInputs.cache
+C:\Study Material\Core C#\Jan24 training Nachiket\Assignment\EmployeemanagmentCT11579\obj\Debug\net7.0\EmployeemanagmentCT11579.AssemblyInfo.cs
+C:\Study Material\Core C#\Jan24 training Nachiket\Assignment\EmployeemanagmentCT11579\obj\Debug\net7.0\EmployeemanagmentCT11579.csproj.CoreCompileInputs.cache
+C:\Study Material\Core C#\Jan24 training Nachiket\Assignment\EmployeemanagmentCT11579\obj\Debug\net7.0\EmployeemanagmentCT11579.dll
+C:\Study Material\Core C#\Jan24 training Nachiket\Assignment\EmployeemanagmentCT11579\obj\Debug\net7.0\refint\EmployeemanagmentCT11579.dll
+C:\Study Material\Core C#\Jan24 training Nachiket\Assignment\EmployeemanagmentCT11579\obj\Debug\net7.0\EmployeemanagmentCT11579.pdb
+C:\Study Material\Core C#\Jan24 training Nachiket\Assignment\EmployeemanagmentCT11579\obj\Debug\net7.0\EmployeemanagmentCT11579.genruntimeconfig.cache
+C:\Study Material\Core C#\Jan24 training Nachiket\Assignment\EmployeemanagmentCT11579\obj\Debug\net7.0\ref\EmployeemanagmentCT11579.dll
